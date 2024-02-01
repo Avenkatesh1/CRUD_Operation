@@ -1,0 +1,14 @@
+.content{
+    padding-top:0px;
+    margin: 0%;
+    height: 400px;
+}
+.row{
+    display: flex;
+    gap: 5px;
+    margin:5px;
+
+    mat-form-field{
+        width: 100%;
+    }
+}
